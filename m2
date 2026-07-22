@@ -1,2 +1,1 @@
-dummy data
-3rd message
+Dummy message
