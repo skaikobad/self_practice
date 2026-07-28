@@ -1,2 +1,1 @@
-Today is Friday
-Now today is Sunday
+Everything is wrong
